@@ -7,11 +7,30 @@
  * was not distributed with this file, You can obtain
  * one at http://mozilla.org/MPL/2.0/.
  */
-@font-face {
-  font-family: Symbola;
-  src: url(font/Symbola.eot);
-  src: local("Symbola Regular"), local("Symbola"), url(font/Symbola.woff2) format("woff2"), url(font/Symbola.woff) format("woff"), url(font/Symbola.ttf) format("truetype"), url(font/Symbola.otf) format("opentype"), url(font/Symbola.svg#Symbola) format("svg");
-}
+  @font-face {
+    font-family: "STIX";
+    src: url("../lib/font/STIX2Math.otf") format("otf");
+  }
+  @font-face {
+    font-family: "STIX";
+    src: url("../lib/font/STIX2Text-Bold.otf") format("otf");
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "STIX";
+    src: url("../lib/font/STIX2Text-Italic.otf") format("otf");
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "STIX";
+    src: url("../lib/font/STIX2Text-BoldItalic.otf") format("otf");
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  body {
+    font-family: "STIX", serif;
+  }
 .mq-editable-field {
   display: -moz-inline-box;
   display: inline-block;
@@ -33,19 +52,19 @@
   border: 1px solid gray;
 }
 .mq-editable-field.mq-focused,
-.mq-math-mode .mq-editable-field.mq-focused {
-  -webkit-box-shadow: #8bd 0 0 1px 2px, inset #6ae 0 0 2px 0;
-  -moz-box-shadow: #8bd 0 0 1px 2px, inset #6ae 0 0 2px 0;
-  box-shadow: #8bd 0 0 1px 2px, inset #6ae 0 0 2px 0;
-  border-color: #709AC0;
-  border-radius: 1px;
-}
+/*.mq-math-mode .mq-editable-field.mq-focused {*/
+/*  -webkit-box-shadow: #8bd 0 0 1px 2px, inset #6ae 0 0 2px 0;*/
+/*  -moz-box-shadow: #8bd 0 0 1px 2px, inset #6ae 0 0 2px 0;*/
+/*  box-shadow: #8bd 0 0 1px 2px, inset #6ae 0 0 2px 0;*/
+/*  border-color: #709AC0;*/
+/*  border-radius: 1px;*/
+/*}*/
 .mq-math-mode .mq-editable-field {
   margin: 1px;
 }
 .mq-editable-field .mq-latex-command-input {
   color: inherit;
-  font-family: "Courier New", monospace;
+  font-family: STIX, "Courier New", monospace;
   border: 1px solid gray;
   padding-right: 1px;
   margin-right: 1px;
@@ -105,7 +124,7 @@
 .mq-math-mode var,
 .mq-math-mode .mq-text-mode,
 .mq-math-mode .mq-nonSymbola {
-  font-family: "Times New Roman", Symbola, serif;
+  font-family: STIX, serif, "Times New Roman" ;
   line-height: .9;
 }
 .mq-math-mode * {
@@ -132,7 +151,7 @@
   font-size: 87%;
 }
 .mq-math-mode .mq-font {
-  font: 1em "Times New Roman", Symbola, serif;
+  font: 1em STIX, serif, "Times New Roman";
 }
 .mq-math-mode .mq-font * {
   font-family: inherit;
@@ -161,10 +180,10 @@
   font-style: normal;
 }
 .mq-math-mode .mq-sans-serif {
-  font-family: sans-serif, Symbola, serif;
+  font-family: sans-serif, STIX, serif;
 }
 .mq-math-mode .mq-monospace {
-  font-family: monospace, Symbola, serif;
+  font-family: monospace, STIX, serif;
 }
 .mq-math-mode .mq-overline {
   border-top: 1px solid black;
@@ -241,7 +260,7 @@
   display: block;
 }
 .mq-math-mode .mq-operator-name {
-  font-family: Symbola, "Times New Roman", serif;
+  font-family: STIX, "Times New Roman", serif;
   line-height: .9;
   font-style: normal;
 }
@@ -330,7 +349,7 @@
 .mq-math-mode,
 .mq-math-mode .mq-editable-field {
   cursor: text;
-  font-family: Symbola, "Times New Roman", serif;
+  font-family: STIX, "Times New Roman", serif;
 }
 .mq-math-mode .mq-overarrow {
   border-top: 1px solid black;
