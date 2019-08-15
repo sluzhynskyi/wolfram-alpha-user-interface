@@ -5,9 +5,8 @@
 This would be easy, just relax...
 
 ### Prerequisites
-Для роботи з даним проектом у Вас повинен бути встановлений git, python 3 та pip 3
-To use this project U should have installed git, python 3 and pip 3
-
+- **Python 3.6+**
+- **Pip3**
 #### Git installing
 Debian-based linux system
 '''
