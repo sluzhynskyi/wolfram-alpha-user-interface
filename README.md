@@ -1,3 +1,7 @@
+<h1 align="center">
+  <a href="http://sluzhynskyi.pythonanywhere.com/" title="WolframUX">WolframUx Dynamic Editor</a>
+</h1>
+
 # Wolfram alpha User Interface
 > This is web html project that convert normal user interface to LaTex and redirects you to the wolfram alpha page with this latex. 
 
