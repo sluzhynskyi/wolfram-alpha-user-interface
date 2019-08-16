@@ -21,31 +21,17 @@ Features: Doesn't redirects if you inputed wrong equation,
 ### Prerequisites
 - **Python 3.6+**
 - **Pip3**
-
-## Documentation
-pass
-
-#### Git installing
-Debian-based linux system
-'''
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git
-'''
-Mac os 
-'''
-$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-$ brew doctor
-$ brew install git
-'''
+- **virtualenv**
 
 ### Installing
-Клонуємо даний репозиторій та встановлюємо бібліотеки для цього проекту.
-Downloading my repo and installing requirement libraries for this project. 
-'''
-$ git clone https://github.com/wat4era/WolframUX
-$ pip install -r My_Cup/requirements.txt --user
-'''
+```
+$ pip install -r requirements.txt
+```
+## Documentation
+Using:
+- [WolframAlpha API](https://pypi.org/project/wolframalpha/)
+- [MathQuill](http://docs.mathquill.com/en/latest/)
+
 ### Usage
 В консолі запускаємо модуль app.py
 open console and run app.py 
