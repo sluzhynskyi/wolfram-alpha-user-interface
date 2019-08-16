@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 ## Documentation
 Using:
 - [WolframAlpha API](https://pypi.org/project/wolframalpha/)
-- [MathQuill](http://docs.mathquill.com/en/latest/)
+- [MathQuill doc](http://docs.mathquill.com/en/latest/)
 
 ### Usage
 В консолі запускаємо модуль app.py
