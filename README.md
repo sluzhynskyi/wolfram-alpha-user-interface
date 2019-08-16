@@ -2,12 +2,22 @@
   <a href="http://sluzhynskyi.pythonanywhere.com/" title="WolframUX">WolframUx Dynamic Editor</a>
 </h1>
 
+<p align="center">
+  <a title="Quickstart" href="#quickstart"><strong>Quickstart</strong></a>
+  &#x2022;
+  <a title="Documentation" href="#documentation"><strong>Documentation</strong></a>
+  &#x2022;
+  <a title="Demo" href="http://sluzhynskyi.pythonanywhere.com/"><strong>Demo</strong></a>
+</p>
+
 # Wolfram alpha User Interface
 > This is web html project that convert normal user interface to LaTex and redirects you to the wolfram alpha page with this latex. 
 
-## Getting Started
+## Quickstart
 This would be easy, just relax...
 
+## Documentation
+pass
 ### Prerequisites
 - **Python 3.6+**
 - **Pip3**
