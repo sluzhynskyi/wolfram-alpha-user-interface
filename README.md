@@ -11,16 +11,19 @@
 </p>
 
 # Wolfram alpha User Interface
+
 > This is web html project that convert normal user interface to LaTex and redirects you to the wolfram alpha page with this latex. 
 
+> Features: Doesn't redirect if you inputed wrong equation, 
 ## Quickstart
-This would be easy, just relax...
 
-## Documentation
-pass
 ### Prerequisites
 - **Python 3.6+**
 - **Pip3**
+
+## Documentation
+pass
+
 #### Git installing
 Debian-based linux system
 '''
