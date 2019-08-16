@@ -12,9 +12,10 @@
 
 # Wolfram alpha User Interface
 
-> This is web html project that convert normal user interface to LaTex and redirects you to the wolfram alpha page with this latex. 
+[WolframUX](http://sluzhynskyi.pythonanywhere.com/) is project that based on mathquill, converts normal user interface to LaTex and redirects you to the wolfram alpha page with this latex. So that allows you have dynamic interface with math ability of WolframAlpha. 
 
-> Features: Doesn't redirect if you inputed wrong equation, 
+Features: Doesn't redirect if you inputed wrong equation, 
+
 ## Quickstart
 
 ### Prerequisites
