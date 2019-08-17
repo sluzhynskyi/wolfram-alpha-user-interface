@@ -15,7 +15,7 @@
 ![](https://img.shields.io/github/languages/count/sluzhynskyi/wolframux)
 ![](https://img.shields.io/github/followers/sluzhynskyi?style=social)
 
-# Wolfram alpha User Interface
+# Wolfram alpha User Interface :chart_with_upwards_trend:
 
 ![WolframUX](https://user-images.githubusercontent.com/44615981/63206912-2f3b8c00-c0c6-11e9-83df-ef9e34161e95.gif)
 
@@ -23,7 +23,7 @@
 
 Features: Doesn't redirects if you inputed wrong equation, 
 
-## Documentation
+## Documentation :pencil2:
 Using:
 - [WolframAlpha API](https://pypi.org/project/wolframalpha/)
 - [MathQuill doc](http://docs.mathquill.com/en/latest/)
@@ -35,11 +35,11 @@ Using:
 - **Pip3**
 - **virtualenv**
 
-### Installing
+### Installing :tongue:
 ```
 $ pip install -r requirements.txt
 ```
-### Usage
+### Usage :zap:
 Run **app.py** - You can run it in console ```python app```
 
 Open in browser [localhost:8080](http://localhost:8080)
