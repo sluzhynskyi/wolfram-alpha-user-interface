@@ -24,7 +24,7 @@ Using:
 - [MathQuill doc](http://docs.mathquill.com/en/latest/)
 ## Quickstart
 
-### Prerequisites
+### Prerequirements
 - **Python 3.6+**
 - **Pip3**
 - **virtualenv**
