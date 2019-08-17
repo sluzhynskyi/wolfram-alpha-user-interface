@@ -10,6 +10,8 @@
   <a title="Demo" href="http://sluzhynskyi.pythonanywhere.com/"><strong>Demo</strong></a>
 </p>
 
+![WolframUX](https://user-images.githubusercontent.com/44615981/63206912-2f3b8c00-c0c6-11e9-83df-ef9e34161e95.gif)
+
 # Wolfram alpha User Interface
 
 ![WolframUX](https://user-images.githubusercontent.com/44615981/63206584-07e1c080-c0c0-11e9-9138-b24a28161995.gif)
