@@ -11,7 +11,8 @@
 </p>
 
 # Wolfram alpha User Interface
-![](WolframUX.gif)
+
+![WolframUX](https://user-images.githubusercontent.com/44615981/63206584-07e1c080-c0c0-11e9-9138-b24a28161995.gif)
 
 [WolframUX](http://sluzhynskyi.pythonanywhere.com/) is project that based on [mathquill](https://github.com/mathquill/mathquill)  formula editor, converts normal user interface to LaTex and redirects you to the WolframAlpha page with this LaTex. So that allows you have dynamic interface with math ability of [WolframAlpha](https://www.wolframalpha.com/). 
 
