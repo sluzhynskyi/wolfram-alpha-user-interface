@@ -15,7 +15,7 @@
 ![](https://img.shields.io/github/languages/count/sluzhynskyi/wolframux)
 ![](https://img.shields.io/github/followers/sluzhynskyi?style=social)
 
-# Wolfram alpha User Interface :chart_with_upwards_trend:
+# Wolfram alpha User Interface 
 
 ![WolframUX](https://user-images.githubusercontent.com/44615981/63206912-2f3b8c00-c0c6-11e9-83df-ef9e34161e95.gif)
 
