@@ -16,6 +16,10 @@
 
 Features: Doesn't redirects if you inputed wrong equation, 
 
+## Documentation
+Using:
+- [WolframAlpha API](https://pypi.org/project/wolframalpha/)
+- [MathQuill doc](http://docs.mathquill.com/en/latest/)
 ## Quickstart
 
 ### Prerequisites
@@ -27,25 +31,8 @@ Features: Doesn't redirects if you inputed wrong equation,
 ```
 $ pip install -r requirements.txt
 ```
-## Documentation
-Using:
-- [WolframAlpha API](https://pypi.org/project/wolframalpha/)
-- [MathQuill doc](http://docs.mathquill.com/en/latest/)
-
 ### Usage
-В консолі запускаємо модуль app.py
-open console and run app.py 
-'''
-python app.py
-'''
-Відкрийте будь-який браузер на з цим посиланням http://0.0.0.0:8080
+Run app.py - You can run it in console ```python app```
 Open this link http://0.0.0.0:8080
-
-## Versioning
-** ** 2019 - demo version
-
-## Authors
-
-* **Danylo Sluzhynskyi** 
 
 
