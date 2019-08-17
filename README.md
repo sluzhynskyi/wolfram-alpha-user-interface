@@ -10,9 +10,12 @@
   <a title="Demo" href="http://sluzhynskyi.pythonanywhere.com/"><strong>Demo</strong></a>
 </p>
 
-![WolframUX](https://user-images.githubusercontent.com/44615981/63206912-2f3b8c00-c0c6-11e9-83df-ef9e34161e95.gif)
+![](https://img.shields.io/github/languages/code-size/sluzhynskyi/WolframUX)
+
 
 # Wolfram alpha User Interface
+
+![WolframUX](https://user-images.githubusercontent.com/44615981/63206912-2f3b8c00-c0c6-11e9-83df-ef9e34161e95.gif)
 
 [WolframUX](http://sluzhynskyi.pythonanywhere.com/) is project that based on [mathquill](https://github.com/mathquill/mathquill)  formula editor, converts normal user interface to LaTex and redirects you to the WolframAlpha page with this LaTex. So that allows you have dynamic interface with math ability of [WolframAlpha](https://www.wolframalpha.com/). 
 
