@@ -32,7 +32,8 @@ Using:
 $ pip install -r requirements.txt
 ```
 ### Usage
-Run app.py - You can run it in console ```python app```
-Open this link http://0.0.0.0:8080
+Run **app.py** - You can run it in console ```python app```
+
+Open in browser [localhost:8080](localhost:8080)
 
 
