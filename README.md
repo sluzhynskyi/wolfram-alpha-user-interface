@@ -11,7 +11,9 @@
 </p>
 
 ![](https://img.shields.io/github/languages/code-size/sluzhynskyi/WolframUX)
-
+![](https://img.shields.io/github/last-commit/sluzhynskyi/WolframUX/master)
+![](https://img.shields.io/github/languages/count/sluzhynskyi/wolframux)
+![](https://img.shields.io/github/followers/sluzhynskyi?style=social)
 
 # Wolfram alpha User Interface
 
