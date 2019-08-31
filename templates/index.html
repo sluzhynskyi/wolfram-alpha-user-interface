@@ -79,7 +79,7 @@
                         'Content-Type': 'application/json'
                     },
                     body: JSON.stringify({value: mathField.latex()})
-                }).then(res => res.json()).then(res => window.location.replace(res['url']))
+                }).then(res => res.json()).then(res => window.open(res['url']))
         };
         console.log(document.getElementById("submit_button").addEventListener('click', getdata));
     </script>
