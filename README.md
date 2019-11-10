@@ -43,10 +43,5 @@ $ pip install -r requirements.txt
 Run **app.py** - You can run it in console ```python app```
 Open in browser [localhost:8080](http://localhost:8080)
 
-### Common probability signs commands to use:
-- \choose : For combinations C, where inside n and k;
-- "!" : Factorial sign; 
-- \choose : For combinations H, where inside n + r -1 and r-1;
-
 
 
