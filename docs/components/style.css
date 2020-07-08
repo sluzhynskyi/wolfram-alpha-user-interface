@@ -1,0 +1,44 @@
+.main-box {
+    height: 380px;
+    overflow: auto;
+}
+
+.box-container {
+    border: 1px solid #ff9339;
+    border-radius: 4px;
+    box-shadow: 0 0 0 3px #ffc230;
+    padding: 0;
+    margin: 40px;
+}
+
+.math-wrapper {
+    display: inline-block;
+    width: calc(100% - 36px);
+}
+
+#math-input {
+    font-weight: bold;
+    border-width: 0;
+    margin: 8px;
+    width: 100%;
+}
+
+.sb-button {
+    width: 20px;
+    height: 20px;
+    border: 0;
+    display: inline-block;
+    float: right;
+    margin: 8px;
+    border-radius: 4px;
+    background: rgb(255, 255, 255) url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCAxOSAxOSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTkgMTkiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGw9IiNGMzZGMjEiIGQ9Ik0xNS45LDBIMy4xQzAuOSwwLDAsMC45LDAsMy4xdjEyLjhDMCwxOC4xLDAuOSwxOSwzLjEsMTloMTIuOGMyLjEsMCwzLjEtMC45LDMuMS0zLjFWMy4xQzE5LDAuOSwxOCwwLDE1LjksMHogTTE0LDEzSDV2LTJoOVYxM3ogTTE0LDhINVY2aDlWOHoiLz48L3N2Zz4=") no-repeat scroll;
+}
+#inner-text{
+    color:#ffc230;
+    font-family: "open sans", sans-serif;
+    font-size: 15px;
+    margin: 40px 0;
+}
+#logo{
+    margin: 20px 0 ;
+}

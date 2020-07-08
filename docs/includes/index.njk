@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>WolframUX</title>
+    <link rel="stylesheet" href="{{ '/components/mathquill.css' | url }}"/>
+    <link rel="stylesheet" href="{{ '/components/style.css' | url }}"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="{{ '/components/mathquill.js' | url }}"></script>
+</head>
+<body>
+<p><span id="math-input"></span></p>
+<p><span id="test">my testing text</span></p>
+<script>
+    var inputSpan = document.getElementById('math-input');
+    var MQ = MathQuill.getInterface(2); // for backcompat
+    var mathField = MQ.MathField(inputSpan, {
+        spaceBehavesLikeTab: true,
+        leftRightIntoCmdGoes: 'up',
+        restrictMismatchedBrackets: true,
+        supSubsRequireOperand: true,
+        charsThatBreakOutOfSupSub: '+-=<>',
+        autoCommands: 'pi theta sqrt sum',
+        autoOperatorNames: 'sin cos tan',
+        maxDepth: 10
+    });
+    mathField.focus();
+</script>
+</body>
+</html>
