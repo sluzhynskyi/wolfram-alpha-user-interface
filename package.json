@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/sluzhynskyi/WolframUX/issues"
   },
-  "homepage": "https://github.com/sluzhynskyi/WolframUX#readme"
+  "homepage": "https://github.com/sluzhynskyi/WolframUX#readme",
+  "dependencies": {
+    "eleventy": "^1.0.6"
+  }
 }
