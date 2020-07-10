@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://wolfram-alpha-user-interface.vercel.app/" title="wolfram-alpha-user-interface">WolframUx Dynamic Editor</a>
+  <a href="https://wolfram-alpha-user-interface.vercel.app/" title="wolfram-alpha-user-interface">Wolfram Alpha User Interface</a>
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/github/languages/code-size/sluzhynskyi/wolfram-alpha-user-interface)
 ![](https://img.shields.io/github/last-commit/sluzhynskyi/wolfram-alpha-user-interface/master)
-![](https://img.shields.io/github/languages/count/sluzhynskyi/wolframux)
+![](https://img.shields.io/github/languages/count/sluzhynskyi/wolfram-alpha-user-interface)
 ![](https://img.shields.io/github/followers/sluzhynskyi?style=social)
 
 # Wolfram alpha User Interface 
