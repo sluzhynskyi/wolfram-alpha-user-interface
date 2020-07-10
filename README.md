@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://wolfram-alpha-user-interface.herokuapp.com/" title="WolframUX">WolframUx Dynamic Editor</a>
+  <a href="https://wolfram-ux.vercel.app/" title="WolframUX">WolframUx Dynamic Editor</a>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
   &#x2022;
   <a title="Documentation" href="#documentation"><strong>Documentation</strong></a>
   &#x2022;
-  <a title="Demo" href="https://wolfram-alpha-user-interface.herokuapp.com/"><strong>Demo</strong></a>
+  <a title="Demo" href="https://wolfram-ux.vercel.app/"><strong>Demo</strong></a>
 </p>
 
 ![](https://img.shields.io/github/languages/code-size/sluzhynskyi/WolframUX)
@@ -19,7 +19,7 @@
 
 ![WolframUX](https://user-images.githubusercontent.com/44615981/63206912-2f3b8c00-c0c6-11e9-83df-ef9e34161e95.gif)
 
-[WolframUX](https://wolfram-alpha-user-interface.herokuapp.com/) is project that based on [mathquill](https://github.com/mathquill/mathquill)  formula editor, converts normal user interface to LaTex and redirects you to the WolframAlpha page with this LaTex. So that allows you have dynamic interface with math ability of [WolframAlpha](https://www.wolframalpha.com/). 
+[WolframUX](https://wolfram-ux.vercel.app/) is project that based on [mathquill](https://github.com/mathquill/mathquill)  formula editor, converts normal user interface to LaTex and redirects you to the WolframAlpha page with this LaTex. So that allows you have dynamic interface with math ability of [WolframAlpha](https://www.wolframalpha.com/). 
 
 Features: Doesn't redirects if you inputed wrong equation, 
 
