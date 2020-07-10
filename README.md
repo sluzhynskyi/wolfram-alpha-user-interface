@@ -27,21 +27,23 @@ Features: Doesn't redirects if you inputed wrong equation,
 Using:
 - [WolframAlpha API](https://pypi.org/project/wolframalpha/)
 - [MathQuill doc](http://docs.mathquill.com/en/latest/)
+- [11ty/Eleventy](https://www.npmjs.com/package/@11ty/eleventy)- For local dynamic serving. 
+ #### References:
+  - [MDN](https://developer.mozilla.org/en-US/) - Most of the information from this site.
+  - [WebsiteSetup](https://websitesetup.org/html-tutorial-beginners/) 
+  - [Medium](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509)
+  - [StanfordEdu](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 ## Quickstart
 
 ### Prerequisites :page_with_curl:
-
-- **Python 3.6+**
-- **Pip3**
-- **virtualenv**
+- npm (Node Package Manager)
 
 ### Installing :tongue:
 ```
-$ pip install -r requirements.txt
+$ npm install -g @11ty/eleventy
 ```
 ### Usage :zap:
-Run **app.py** - You can run it in console ```python app```
-Open in browser [localhost:8080](http://localhost:8080)
-
-
+```
+$ eleventy --serve
+```
 
