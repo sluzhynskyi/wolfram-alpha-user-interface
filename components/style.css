@@ -13,10 +13,10 @@
 
 .math-wrapper {
     display: inline-block;
-    width: 80%;
-    width: calc(100% - 36px);
-    width: -webkit-calc(100% - 36px);
-    width: -moz-calc(100% - 36px);
+    /*width: 80%;*/
+    /*width: calc(100% - 36px);*/
+    /*width: -webkit-calc(100% - 36px);*/
+    /*width: -moz-calc(100% - 36px);*/
 }
 
 #math-input {
